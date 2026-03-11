@@ -1,0 +1,44 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Страница — 1" id="D5Q_oxwu-0ie4KydFBpy">
+    <mxGraphModel dx="1356" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iY3rz8hfP6XOoppKJZKK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=10;" edge="1" parent="1" source="iY3rz8hfP6XOoppKJZKK-2" target="iY3rz8hfP6XOoppKJZKK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iY3rz8hfP6XOoppKJZKK-2" value="&lt;p style=&quot;line-height: 1;&quot;&gt;Начало&lt;/p&gt;" style="shape=stencil(vZXxboMgEMafhj9dUNwDLG57j9NelRTBIKv27YegWdHq1s3OmJD7Dn/3nZyRsKytoEGSUAk1EvZKkiTHkku7WrHySkp92PkwnmJoGyyMF8+gOeQCfaY1Wp2w4wczIrisUHMzZNkboS92z3CzrFBSWghXsg0yV3kLAy7ts7T3sLH8JYgay6/RoB5NepUk7z/HPj0/Bhw/yG+Indzv7nc/cOg4ftTB7QaOf49lmVXWhptlORSnUqsPebhp5siFKJRQ2oZ+dbVIwuh4bTfTwPDhLRJTulZn/OpydizpJntCgC5WCWOkZ1l9CWMBusTIgqKjgDJ4m22H2CzlPoKet5FWBoaXGlTbtiu4vOo4vm34jo7nhPQPPdN/6fmuU3bTuxgip65Mrp1ZpfGbkfa/hY2qqxtc6UUFp/o/mBM+AQ==);whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=10;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iY3rz8hfP6XOoppKJZKK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Helvetica;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iY3rz8hfP6XOoppKJZKK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iY3rz8hfP6XOoppKJZKK-4" value="&lt;font&gt;Обновленная запись&lt;br&gt;(new)&lt;/font&gt;" style="shape=stencil(tZRtboQgEIZPw99GYXuAxrb3mMXZShbBAN1tb78jaLvWjzZWjQmZd/CZF0ZgovAVNMh4ZqBGJp4Z5yUEoIG0KgmHLIXXFOZ9DL5BGZJ4AafgqDFlfHD2jFdVhg6hTIVOhTYrXlj2RHPaVxTSGkMQZY0fZO7yBANl6NvsI8G68p+DqCF+jQFdZzKpjL/+HfvwuA8438nvENu739zvduCh43yvxm0GztdjRUHK3M8tiiPI85uz76acNHNSWkurraMwjbEW4yLrnuXFNNAevFGiT9f2gt+rnD5P0+ieoJW5I3zdCP9A/HBxWMFYQ5DaelzYSdJHmxnVmQ5S76zDX1qbrseFqrMTYulRhaimizwKNw==);whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=10;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="90" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iY3rz8hfP6XOoppKJZKK-5" value="&lt;p style=&quot;line-height: 1;&quot;&gt;Конец&lt;/p&gt;" style="shape=stencil(vZVhboMwDIVPk59MgbADTGy7h0tdiBoSFLJCb7+QgNZAYesGQwj07PD5mRhBWNaUUCNJqIQKCXslSYLyaK82VHqdUi9bL+NRQ1NjbnzwAprDQaDPNEarM7b8aAYElyVqbvoseyP0xa7pT5blSkoL4Uo2QeYmb2HApX2Wdh42lL8Gqrb8Cg3qwaSPkuT959in533A8U5+Q+zofnO/24FDx/FeG7cZOP49lmU2sjTcLDtAfi60+rBf2j0zJy5EroTSVvq7q0USRodjvZka+g9vlhjTlbrgV5eTbUlX2SMCdL5IGJSeZPU11AJ0gZEFRScBRfA2mxaxnoe7CDreRFoZ6F9qUG3druDypuP4vuEHOp4S0j/0TP+l54d22U3vbIhcdGFy7cwqjd+MtP8trFRdXOBKzyq4qP9/ucAn);whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=10;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iY3rz8hfP6XOoppKJZKK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="iY3rz8hfP6XOoppKJZKK-7" target="iY3rz8hfP6XOoppKJZKK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iY3rz8hfP6XOoppKJZKK-7" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Вернуть new&lt;/font&gt;&lt;/p&gt;" style="shape=stencil(tZRtboQgEIZPw99GYXuAxrb3mMXZShbBAN1tb78jaLvWjzZWjQmZd/CZF0ZgovAVNMh4ZqBGJp4Z5yUEoIG0KgmHLIXXFOZ9DL5BGZJ4AafgqDFlfHD2jFdVhg6hTIVOhTYrXlj2RHPaVxTSGkMQZY0fZO7yBANl6NvsI8G68p+DqCF+jQFdZzKpjL/+HfvwuA8438nvENu739zvduCh43yvxm0GztdjRUHK3M8tiiPI85uz76acNHNSWkurraMwjbEW4yLrnuXFNNAevFGiT9f2gt+rnD5P0+ieoJW5I3zdCP9A/HBxWMFYQ5DaelzYSdJHmxnVmQ5S76zDX1qbrseFqrMTYulRhaimizwKNw==);whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=10;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="220" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iY3rz8hfP6XOoppKJZKK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=1;startFill=0;" edge="1" parent="1" source="iY3rz8hfP6XOoppKJZKK-9" target="iY3rz8hfP6XOoppKJZKK-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237.5" y="220" />
+              <mxPoint x="237.5" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iY3rz8hfP6XOoppKJZKK-9" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;Вставить в employee_reduced значение (new.id, new.email)&lt;/font&gt;" style="shape=stencil(tVVRboQgED0Nvw1Ce4DGtvdg2Wkli0CA7ra37wiSrFHcdqvGxMx78uYN4yDhbeiEA8KoET0Q/kIYcx6ctxJCwACZLsOPNIeXHDYlFsGBjBk8C6/EQUNmQvT2BBd1jKOEMh14FQeWvxL6jO8MN2+lNQZFlDVhwlzxKCaUwbX0K4uN6b8nkUP9HiL40WRGCXv7vezD0z7CzU5+p7LF/eZ+txOeOm72atxmws39srxFpPZx8/Yg5OnD209zXDTzrrSWVluPYX6mXIRxOl7rxTgxDN6MKLQfxnZ9nG6Mfi0x4rPcCa0UjKVaDzd2Ip8m95fb2zNcNXWx3mXpoqCVqSus70nFBP+/C/4XG8utKVx1h9OyWYsSmn8fCfgB);whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=10;spacingBottom=4;rounded=0;shadow=0;sketch=0;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="175" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
